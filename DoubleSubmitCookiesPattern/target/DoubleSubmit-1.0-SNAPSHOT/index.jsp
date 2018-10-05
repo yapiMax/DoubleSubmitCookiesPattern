@@ -26,8 +26,8 @@ body,h2 {font-family: "Montserrat", sans-serif}
     <hr style="width:200px" class="w3-opacity">
 
     <form method="POST" action="LoginController">
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Username" required name="username" value="ypieris"></p>
-      <p><input class="w3-input w3-padding-16" type="password" placeholder="Password" required name="password" value="12345"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Username" required name="username"></p>
+      <p><input class="w3-input w3-padding-16" type="password" placeholder="Password" required name="password"></p>
       <p>
         <button class="w3-button w3-light-grey w3-padding-large" type="submit">LOG IN
         </button>
